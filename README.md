@@ -12,11 +12,7 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)](https://vite.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-
 [![Bun](https://img.shields.io/badge/Bun-000000?style=plastic&logo=bun&logoColor=white)](https://bun.com/)
-
-
-
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=plastic&logo=typeorm&logoColor=white)](https://typeorm.io/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)](https://www.prisma.io/)
