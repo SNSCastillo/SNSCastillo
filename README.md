@@ -7,15 +7,14 @@
 ### Web Developer - 💻 TECHNOLOGIES
 ---
 
+[![Node.js](https://img.shields.io/badge/Node.js-0d121c?style=plastic&logo=nodedotjs&logoColor=61b448)](https://nodejs.org/)
+[![Bun](https://img.shields.io/badge/Bun-000000?style=plastic&logo=bun&logoColor=fbf0df)](https://bun.com/)
 [![React](https://img.shields.io/badge/React-23272f?style=plastic&logo=react&logoColor=58c4dc)](https://es.react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-2a1b3a?style=plastic&logo=vite&logoColor=ffd6d3)](https://vite.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-030712?style=plastic&logo=tailwind-css&logoColor=00a5e2)](https://tailwindcss.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-0d121c?style=plastic&logo=nodedotjs&logoColor=61b448)](https://nodejs.org/)
-[![Bun](https://img.shields.io/badge/Bun-000000?style=plastic&logo=bun&logoColor=fbf0df)](https://bun.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=plastic&logo=typeorm&logoColor=white)](https://typeorm.io/)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -26,5 +25,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript&logoColor=efd81d)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-2a587f?style=plastic&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
 
 </div>
