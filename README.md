@@ -1,10 +1,25 @@
-<p>💼 Working on fullstack development</p>
-<p>📚 Currently learning new technologies</p>
-<p>🤝 Looking to collaborate on projects</p>
+<h1 align="center">Hi 👋, I'm Santos</h1> 
 
-<div align="start">
+<p align="center"> 💻 Full-Stack Developer | 🚀 Building web applications | 📚 Learning Python </p> 
 
-<h2><a href="https://sns-portfolio-eta.vercel.app/" target="_blank">Web Developer - 💻 TECHNOLOGIES</a></h2>
+<p align="center"> 
+    <a href="https://sns-portfolio-eta.vercel.app/" target="_blank">
+        🌐 Portfolio
+    </a> 
+        • 
+    <a href="https://github.com/SNSCastillo" target="_blank">
+        💻 GitHub
+    </a> 
+</p>
+
+## 👨‍💻 About Me
+
+<p>💼 Working in full-stack development</p> 
+<p>📚 Currently learning Python</p> 
+<p>🚀 Building scalable web applications and REST APIs</p> 
+<p>🧠 Interested in backend development, automation and software architecture</p> 
+
+## 💻 TECHNOLOGIES
 
 [![Node.js](https://img.shields.io/badge/Node.js-0d121c?style=plastic&logo=nodedotjs&logoColor=61b448)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-23272f?style=plastic&logo=react&logoColor=58c4dc)](https://es.react.dev/)
@@ -24,7 +39,3 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript&logoColor=efd81d)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-2a587f?style=plastic&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-
-
-</div>
