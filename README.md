@@ -3,7 +3,7 @@
 <p align="center"> 💻 Full-Stack Developer | 🚀 Building web applications | 📚 Learning Python </p> 
 
 <p align="center"> 
-    <a href="https://sns-portfolio-eta.vercel.app/" target="_blank">
+    <a href="https://www.vdroid.dev/" target="_blank">
         🌐 Portfolio
     </a> 
         • 
